@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Ram",
+        "age": 30
+    },
+    {
+        "name": "Sita",
+        "age": 25
+    },
+    {
+        "name": "Luffy",
+        "age": 19,
+        "city": "East Blue"
+    }
+]
